@@ -1,0 +1,97 @@
+{
+  "resultados": [
+    { 
+      "img": "./img/ccr.jpeg" ,
+      "nombre": "Estacion Movimiento",
+      "fecha": "2023-05-15",
+      "ubicacion": "Once, CABA",
+      "descripcion": "Festival de Danza Urbana con competencia 2vs2 Open Style.",
+      "horario" : "20hs",
+      "direccion" : "Parque la Estacion, CABA",
+      "precio" : "1200 ARG"
+    },
+    {
+      "img": "./img/Cruel.jpeg" ,
+      "nombre": "Cruel and Nasty",
+      "fecha": "2023-07-08",
+      "ubicacion": "Villa Crespo, CABA",
+      "descripcion": "Competencia de Fresstyle con musica Electronica.",
+      "horario" : "20hs",
+      "direccion" : "La cultura de Barrio, CABA",
+      "precio" : "1200 ARG"
+
+    },
+    {
+      "img": "./img/electro.jpeg" ,
+      "nombre": "Electro Argento",
+      "fecha": "2023-09-20",
+      "ubicacion": "Villa Crespo, CABA",
+      "descripcion": "Competencia de nueva escuela de electrodance 1vs1",
+      "horario" : "19hs",
+      "direccion" : "Otra historia Cultural, CABA",
+      "precio" : "1200 ARG"
+
+    },
+    {
+      "img": "../img/elevate.jpeg" ,
+      "nombre": "Elevate yout Groove",
+      "fecha": "2023-10-12",
+      "ubicacion": "Once, CABA",
+      "descripcion": "Competencia freestyle con musica electronica",
+      "horario" : "16hs",
+      "direccion" : "PEI MEI, CABA",
+      "precio" : "1200 ARG"
+
+    },
+    {
+      "img": "../img/expresion.jpeg" ,
+      "nombre": "Expresion electro jam",
+      "fecha": "2023-10-12",
+      "ubicacion": "Paternal, CABA",
+      "descripcion": "Jam de baile abierta con musica electronica + bar + shows",
+      "horario" : "16hs",
+      "direccion" : "Teatro bar El Tejon, CABA",
+      "precio" : "1200 ARG"
+    },
+    {
+      "img": "../img/qlp.jpeg" ,
+      "nombre": "Quien la Pudra V",
+      "fecha": "2023-10-12",
+      "ubicacion": "Zona Sur",
+      "descripcion": "Competencia All Style 2vs2 y Electrodance 1vs1",
+      "horario" : "16hs",
+      "direccion" : "Complejo Lomas de Zamora, Zona Sur",
+      "precio" : "1200 ARG"
+    },
+    {
+      "img": "../img/tca.jpeg" ,
+      "nombre": "TCA TWERK",
+      "fecha": "2024-02-03",
+      "ubicacion": "Villa Crespo, CABA",
+      "descripcion": "Batalla de Fresstyle con Musica Funk Brasilero",
+      "horario" : "16hs",
+      "direccion" : "Fragata, Caba",
+      "precio" : "1200 ARG"
+    },
+    {
+      "img": "../img/ufd.jpeg" ,
+      "nombre": "UFD",
+      "fecha": "2023-10-12",
+      "ubicacion": "CCR, CABA",
+      "descripcion": "Competencia Fresstyle y Electrodance",
+      "horario" : "16hs",
+      "direccion" : "Centro Cultural Recoleta, CABA",
+      "precio" : "1200 ARG"
+    },
+    {
+      "img": "../img/dm.jpeg" ,
+      "nombre": "Jam Dm",
+      "fecha": "2023-10-12",
+      "ubicacion": "Villa Crespo, CABA",
+      "descripcion": "Evento de Danza abierto para bailar libremente",
+      "horario" : "16hs",
+      "direccion" : "Dance Move, CABA",
+      "precio" : "1200 ARG"
+    }
+  ]
+}

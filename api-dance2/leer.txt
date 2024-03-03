@@ -1,0 +1,5 @@
+Profe como va?
+Aca apunto las diferencias  que se le agregaron al parcial2:
+Notificaciones y trabajo offline.
+Muy importante abrirlo con localhost.
+Muchas gracias.-
